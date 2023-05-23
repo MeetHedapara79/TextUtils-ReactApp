@@ -1,0 +1,22 @@
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 18px;
+}
+
+.card {
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.abw{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
